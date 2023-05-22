@@ -1,0 +1,9 @@
+let x = "Azizbek"; // Allowed not recomment
+// let !@#%^&salom="Azizbek" // Not allowed
+let $username = "Azizbek"; // Allowed Not recomment
+// let 233username="Azizbek" // Not Allowed
+// let user-name = "Azizbek"; // not Allowed
+let username2 = "Azizbek"; // Allowed
+let username = "Azizbek"; // Allowed not recomment
+let user_name = "Azizbek"; // Allowed not recomment
+let userName = "Azizbek"; // Allowed recomment
